@@ -1,0 +1,1 @@
+code -r test.txt - for creating files in vs code
